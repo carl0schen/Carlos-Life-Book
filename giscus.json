@@ -1,5 +1,4 @@
 {
   "origins": ["https://carlos.mynet.tw"],
-  "originsRegex": ["http://localhost:4000"],
   "defaultCommentOrder": "newest"
 }
